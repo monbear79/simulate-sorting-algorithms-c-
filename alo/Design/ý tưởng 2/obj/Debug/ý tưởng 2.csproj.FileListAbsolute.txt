@@ -1,0 +1,33 @@
+D:\VLU\Cơ Sở Lập Trình\winform\repos\ý tưởng 2\ý tưởng 2\bin\Debug\ý tưởng 2.exe.config
+D:\VLU\Cơ Sở Lập Trình\winform\repos\ý tưởng 2\ý tưởng 2\bin\Debug\ý tưởng 2.exe
+D:\VLU\Cơ Sở Lập Trình\winform\repos\ý tưởng 2\ý tưởng 2\bin\Debug\ý tưởng 2.pdb
+D:\VLU\Cơ Sở Lập Trình\winform\repos\ý tưởng 2\ý tưởng 2\obj\Debug\ý tưởng 2.csproj.AssemblyReference.cache
+D:\VLU\Cơ Sở Lập Trình\winform\repos\ý tưởng 2\ý tưởng 2\obj\Debug\ý tưởng 2.csproj.SuggestedBindingRedirects.cache
+D:\VLU\Cơ Sở Lập Trình\winform\repos\ý tưởng 2\ý tưởng 2\obj\Debug\ý_tưởng_2.Form1.resources
+D:\VLU\Cơ Sở Lập Trình\winform\repos\ý tưởng 2\ý tưởng 2\obj\Debug\ý_tưởng_2.Properties.Resources.resources
+D:\VLU\Cơ Sở Lập Trình\winform\repos\ý tưởng 2\ý tưởng 2\obj\Debug\ý tưởng 2.csproj.GenerateResource.cache
+D:\VLU\Cơ Sở Lập Trình\winform\repos\ý tưởng 2\ý tưởng 2\obj\Debug\ý tưởng 2.csproj.CoreCompileInputs.cache
+D:\VLU\Cơ Sở Lập Trình\winform\repos\ý tưởng 2\ý tưởng 2\obj\Debug\ý tưởng 2.exe
+D:\VLU\Cơ Sở Lập Trình\winform\repos\ý tưởng 2\ý tưởng 2\obj\Debug\ý tưởng 2.pdb
+D:\VLU\Cơ Sở Lập Trình\winform\repos\Design\ý tưởng 2\bin\Debug\ý tưởng 2.exe.config
+D:\VLU\Cơ Sở Lập Trình\winform\repos\Design\ý tưởng 2\bin\Debug\ý tưởng 2.exe
+D:\VLU\Cơ Sở Lập Trình\winform\repos\Design\ý tưởng 2\bin\Debug\ý tưởng 2.pdb
+D:\VLU\Cơ Sở Lập Trình\winform\repos\Design\ý tưởng 2\obj\Debug\ý tưởng 2.csproj.AssemblyReference.cache
+D:\VLU\Cơ Sở Lập Trình\winform\repos\Design\ý tưởng 2\obj\Debug\ý tưởng 2.csproj.SuggestedBindingRedirects.cache
+D:\VLU\Cơ Sở Lập Trình\winform\repos\Design\ý tưởng 2\obj\Debug\ý_tưởng_2.Form1.resources
+D:\VLU\Cơ Sở Lập Trình\winform\repos\Design\ý tưởng 2\obj\Debug\ý_tưởng_2.Properties.Resources.resources
+D:\VLU\Cơ Sở Lập Trình\winform\repos\Design\ý tưởng 2\obj\Debug\ý tưởng 2.csproj.GenerateResource.cache
+D:\VLU\Cơ Sở Lập Trình\winform\repos\Design\ý tưởng 2\obj\Debug\ý tưởng 2.csproj.CoreCompileInputs.cache
+D:\VLU\Cơ Sở Lập Trình\winform\repos\Design\ý tưởng 2\obj\Debug\ý tưởng 2.exe
+D:\VLU\Cơ Sở Lập Trình\winform\repos\Design\ý tưởng 2\obj\Debug\ý tưởng 2.pdb
+C:\Users\ASUS\Downloads\Design (1)\Design\ý tưởng 2\bin\Debug\ý tưởng 2.exe.config
+C:\Users\ASUS\Downloads\Design (1)\Design\ý tưởng 2\bin\Debug\ý tưởng 2.exe
+C:\Users\ASUS\Downloads\Design (1)\Design\ý tưởng 2\bin\Debug\ý tưởng 2.pdb
+C:\Users\ASUS\Downloads\Design (1)\Design\ý tưởng 2\obj\Debug\ý tưởng 2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Design (1)\Design\ý tưởng 2\obj\Debug\ý tưởng 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\Design (1)\Design\ý tưởng 2\obj\Debug\ý_tưởng_2.Form1.resources
+C:\Users\ASUS\Downloads\Design (1)\Design\ý tưởng 2\obj\Debug\ý_tưởng_2.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Design (1)\Design\ý tưởng 2\obj\Debug\ý tưởng 2.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Design (1)\Design\ý tưởng 2\obj\Debug\ý tưởng 2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Design (1)\Design\ý tưởng 2\obj\Debug\ý tưởng 2.exe
+C:\Users\ASUS\Downloads\Design (1)\Design\ý tưởng 2\obj\Debug\ý tưởng 2.pdb
